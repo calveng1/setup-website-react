@@ -1,5 +1,5 @@
 Esse projeto foi desenvolvido durante as aulas de Tópicos especiais em programação (Programação Web - ReactJS).
-Nele estão 
+Nele testamos alguns componentes do react e descrevemos um tutorial de configuração de um projeto desde o zero.
 
 Desenvolvedores: 
 
